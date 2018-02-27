@@ -9,7 +9,7 @@
 
 |Name|Presentation|Additional files|
 |----|-----|------|
-|Γιώργος Πέτρου | [Logic prorgramming and nonmonotonic reasoning]() |
-|Αλέξανδρος Μόσχος | [Μεταγλωττίζοντας για τον browser με WebAssembly]()|
-|Παναγιώτης Λαμπράκης | [Introduction to Apache Hadoop Map Reduce]() | [sources]() |
-|Γρηγόρης Βελέγκας | [Εισαγωγή στο blockchain]() |
+|Γιώργος Πέτρου | [Logic prorgramming and nonmonotonic reasoning](files/prolog-presentation.pptx) |
+|Αλέξανδρος Μόσχος | [Μεταγλωττίζοντας για τον browser με WebAssembly](files/wasm.pdf)|
+|Παναγιώτης Λαμπράκης | [Introduction to Apache Hadoop Map Reduce](files/hadoop.pptx) | [Example sources](files/hadoop-map-reduce.zip) |
+|Γρηγόρης Βελέγκας | [Εισαγωγή στο blockchain](files/intro-to-blockchain.pdf) |
