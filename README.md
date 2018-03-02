@@ -13,3 +13,4 @@
 |Αλέξανδρος Μόσχος | [Μεταγλωττίζοντας για τον browser με WebAssembly](files/wasm.pdf)|
 |Παναγιώτης Λαμπράκης | [Introduction to Apache Hadoop Map Reduce](files/hadoop.pptx) | [Example sources](files/hadoop-map-reduce.zip) |
 |Γρηγόρης Βελέγκας | [Εισαγωγή στο blockchain](files/intro-to-blockchain.pdf) |
+|Γεώργιος Παπαδόδημας | [Smart Contracts στο Ethereum Blockchain] (files/Smart Contracts στο Ethereum Blockchain.zip) |
