@@ -13,3 +13,4 @@
 |Αλέξανδρος Μόσχος | [Μεταγλωττίζοντας για τον browser με WebAssembly](files/wasm.pdf)|
 |Παναγιώτης Λαμπράκης | [Introduction to Apache Hadoop Map Reduce](files/hadoop.pptx) | [Example sources](files/hadoop-map-reduce.zip) |
 |Γρηγόρης Βελέγκας | [Εισαγωγή στο blockchain](files/intro-to-blockchain.pdf) |
+|Βασιλική Τασσοπούλου | [Product Managment in SoftEng and Jira Software](http://prezi.com/aa_uv5fe--4_/?utm_campaign=share&utm_medium=copy)|
