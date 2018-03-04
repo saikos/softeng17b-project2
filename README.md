@@ -20,4 +20,4 @@
 |Βασιλική Τασσοπούλου | [Product Managment in SoftEng and Jira Software](http://prezi.com/aa_uv5fe--4_/?utm_campaign=share&utm_medium=copy)|
 |Γεώργιος Παπαδόδημας | [Smart Contracts στο Ethereum Blockchain](files/Smart-Contracts-in-Ethereum-Blockchain.zip) |
 |Μάνος Πιτσιδιανάκης | [Rust: memory safety and systems programming](files/rust.pdf) |
-|Κωνσταντίνος Δημητρίου | [Τύποι επιθέσεων σε διαδικτυακές εφαρμογές.odp](files/τύποι επιθέσεων σε διαδικτυακές εφαρμογές.odp) | 
+|Κωνσταντίνος Δημητρίου | [Τύποι επιθέσεων σε διαδικτυακές εφαρμογές.odp](files/τύποι%20επιθέσεων%20σε%20διαδικτυακές%20εφαρμογές.odp) | 
