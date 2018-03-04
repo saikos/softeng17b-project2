@@ -17,3 +17,4 @@
 |Γρηγόρης Μαντάος | [Dynamic cloud allocation](files/dynamic-cloud.pdf) | [Controller screenshot](files/cloud-controller.png) |
 |Στρατής Τσιρτσής | [Εισαγωγή στη γλώσσα Julia](files/intro-to-julia/julia.md) | [Jupyter Notebooks](files/intro-to-julia/)
 |Απόστολος Μποστάνης| [Introduction to html5 game development with Phaser](files/phaser-js-presentation.pptx) | 
+|Βασιλική Τασσοπούλου | [Product Managment in SoftEng and Jira Software](http://prezi.com/aa_uv5fe--4_/?utm_campaign=share&utm_medium=copy)|
