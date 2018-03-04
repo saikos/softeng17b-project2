@@ -13,4 +13,5 @@
 |Αλέξανδρος Μόσχος | [Μεταγλωττίζοντας για τον browser με WebAssembly](files/wasm.pdf)|
 |Παναγιώτης Λαμπράκης | [Introduction to Apache Hadoop Map Reduce](files/hadoop.pptx) | [Example sources](files/hadoop-map-reduce.zip) |
 |Γρηγόρης Βελέγκας | [Εισαγωγή στο blockchain](files/intro-to-blockchain.pdf) |
+|Δημήτρης Σωτηρίου | [Introduction to ReactJS](files/Introduction-to-ReactJS-20180227.pdf) |
 |Γρηγόρης Μαντάος | [Dynamic cloud allocation](files/dynamic-cloud.pdf) | [Controller screenshot](files/cloud-controller.png) |
