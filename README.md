@@ -21,3 +21,4 @@
 |Γεώργιος Παπαδόδημας | [Smart Contracts στο Ethereum Blockchain](files/Smart-Contracts-in-Ethereum-Blockchain.zip) |
 |Μάνος Πιτσιδιανάκης | [Rust: memory safety and systems programming](files/rust.pdf) |
 |Κωνσταντίνος Δημητρίου | [Τύποι επιθέσεων σε διαδικτυακές εφαρμογές](files/τύποι%20επιθέσεων%20σε%20διαδικτυακές%20εφαρμογές.odp) | 
+|Κατερίνα Τσιβρά | [YouTube Recommendation Systems](files/YoutubeRecommendationSystems.zip|
