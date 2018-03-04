@@ -16,3 +16,4 @@
 |Δημήτρης Σωτηρίου | [Introduction to ReactJS](files/Introduction-to-ReactJS-20180227.pdf) |
 |Γρηγόρης Μαντάος | [Dynamic cloud allocation](files/dynamic-cloud.pdf) | [Controller screenshot](files/cloud-controller.png) |
 |Στρατής Τσιρτσής | [Εισαγωγή στη γλώσσα Julia](files/intro-to-julia/julia.md) | [Jupyter Notebooks](files/intro-to-julia/)
+|Απόστολος Μποστάνης| [Introduction to html5 game development with Phaser](files/phaser-js-presentation.pptx) | 
