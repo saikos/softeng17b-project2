@@ -29,4 +29,4 @@
 |Σωτήρης-Κωνσταντίνος Αναγνωστίδης | [Εισαγωγή στο Elastic Search](files/elasticsearch/Elasticsearch%20-%20SoftEng.pdf) | [Παράδειγμα](files/elasticsearch/example) |
 |Οδυσσέας Δρόσης | [Algorithmic trading: introduction and benefits](files/algo-trading2.pptx) |
 |Νικόλαος Μαρούσης | [Εισαγωγή στη γλώσσα Scala](files/Introduction_to_Scala.pdf) |
-	
+|Γαβαλάς Νίκος | [Introduction to Bootloaders](files/SoftEng-Bootloaders.pdf) |
