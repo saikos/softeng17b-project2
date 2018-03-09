@@ -22,4 +22,11 @@
 |Μάνος Πιτσιδιανάκης | [Rust: memory safety and systems programming](files/rust.pdf) |
 |Κωνσταντίνος Δημητρίου | [Τύποι επιθέσεων σε διαδικτυακές εφαρμογές](files/τύποι%20επιθέσεων%20σε%20διαδικτυακές%20εφαρμογές.odp) | 
 |Κατερίνα Τσιβρά | [YouTube Recommendation Systems](files/YoutubeRecommendationSystems.zip)|
+|Χριστιάνα Κουδιγκέλη | [Εισαγωγή στο Scrum](files/[softeng17]Χριστιάνα%20Κουδιγκέλη%20-%20Project%202.pdf)|
+|Αλέξανδρος Καλόμοιρος | [Runtime-Aware Architectures](files/raa-presentation.pdf) |
+|Ιωάννης Παναγόπουλος| [Making Games with Python & Pygame](files/el13542-Making%20games%20with%20Python%20&amp;%20Pygame.zip) |
+|Ορέστης Μάστακας | [Εισαγωγή στη γλώσσα SML](SML2.odp) |
+|Σωτήρης-Κωνσταντίνος Αναγνωστίδης | [Εισαγωγή στο Elastic Search](files/elasticsearch/Elasticsearch%20-%20SoftEng.pdf) | [Παράδειγμα](files/elasticsearch/example) |
+|Οδυσσέας Δρόσης | [Algorithmic trading: introduction and benefits](files/algo-trading2.pptx) |
+|Νικόλαος Μαρούσης | [Εισαγωγή στη γλώσσα Scala](files/Introduction_to_Scala.pdf) |
 |Γαβαλάς Νίκος | [Introduction to Bootloaders](files/SoftEng-Bootloaders.pdf) |
