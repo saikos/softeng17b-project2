@@ -27,3 +27,4 @@
 |Ιωάννης Παναγόπουλος| [Making Games with Python & Pygame](files/el13542-Making%20games%20with%20Python%20&amp;%20Pygame.zip) |
 |Ορέστης Μάστακας | [Εισαγωγή στη γλώσσα SML](SML2.odp) |
 |Σωτήρης-Κωνσταντίνος Αναγνωστίδης | [Εισαγωγή στο Elastic Search](files/elasticsearch/Elasticsearch%20-%20SoftEng.pdf) | [Παράδειγμα](files/elasticsearch/example) |
+|Οδυσσέας Δρόσης | [Algorithmic trading: introduction and benefits](files/algo-trading2.pptx) |
