@@ -32,3 +32,4 @@
 |Γαβαλάς Νίκος | [Introduction to Bootloaders](files/SoftEng-Bootloaders.pdf) |
 |Βασιλική Βλάχου | [Εισαγωγή στο Java Native Interface](files/Εισαγωγή%20στο%20Java%20Native%20Interface.pdf) |
 |Μάρκος Καραμέρης| [RSA DH σε πρωτόκολλα ασφαλούς σύνδεσης στο διαδίκτυο](files/RSA,Diffie-Hellman.pdf) |
+|Δημήτρης Τζιβάκης | [Introduction to cloud computing](files/Introduction%20to%20Cloud%20Computing.pptx) |
