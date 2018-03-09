@@ -23,3 +23,4 @@
 |Κωνσταντίνος Δημητρίου | [Τύποι επιθέσεων σε διαδικτυακές εφαρμογές](files/τύποι%20επιθέσεων%20σε%20διαδικτυακές%20εφαρμογές.odp) | 
 |Κατερίνα Τσιβρά | [YouTube Recommendation Systems](files/YoutubeRecommendationSystems.zip)|
 |Χριστιάνα Κουδιγκέλη | [Εισαγωγή στο Scrum](files/[softeng17]Χριστιάνα%20Κουδιγκέλη%20-%20Project%202.pdf)|
+|Αλέξανδρος Καλόμοιρος | [Runtime-Aware Architectures](files/raa-presentation.pdf) |
