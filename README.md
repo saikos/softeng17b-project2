@@ -28,3 +28,5 @@
 |Ορέστης Μάστακας | [Εισαγωγή στη γλώσσα SML](SML2.odp) |
 |Σωτήρης-Κωνσταντίνος Αναγνωστίδης | [Εισαγωγή στο Elastic Search](files/elasticsearch/Elasticsearch%20-%20SoftEng.pdf) | [Παράδειγμα](files/elasticsearch/example) |
 |Οδυσσέας Δρόσης | [Algorithmic trading: introduction and benefits](files/algo-trading2.pptx) |
+|Νικόλαος Μαρούσης | [Εισαγωγή στη γλώσσα Scala](Introduction_to_Scala.pdf) |
+	
