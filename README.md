@@ -39,3 +39,4 @@
 |Σωτήρης-Κωνσταντίνος Αναγνωστίδης | [Εισαγωγή στο Elastic Search](files/elasticsearch/Elasticsearch%20-%20SoftEng.pdf) | [Παράδειγμα](files/elasticsearch/example) |
 |Βασιλική Βλάχου | [Εισαγωγή στο Java Native Interface](files/Εισαγωγή%20στο%20Java%20Native%20Interface.pdf) |
 |Δημήτρης Τζιβάκης | [Introduction to cloud computing](files/Introduction%20to%20Cloud%20Computing.pptx) |
+|Κανδήρος Άνθιμος-Βαρδής | [Introduction to Quantum Cryptography](files/Introduction_to_Quantum_Cryptography.ppt) |
