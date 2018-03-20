@@ -41,3 +41,4 @@
 |Δημήτρης Τζιβάκης | [Introduction to cloud computing](files/Introduction%20to%20Cloud%20Computing.pptx) |
 |Βασίλης Γκούμας | [ Introduction to Nix](files/nix-slides.pptx) |
 |Κανδήρος Άνθιμος-Βαρδής | [Introduction to Quantum Cryptography](files/Introduction_to_Quantum_Cryptography.pdf) |
+|Ισίδωρος Μαρούγκας | [State of the Art Deep Learning Representations in Recommendation Engines](files/State_of_the_Art_Deep_Learning_Representations_in_Recommendation_Engines.pptx) |
