@@ -40,3 +40,4 @@
 |Βασιλική Βλάχου | [Εισαγωγή στο Java Native Interface](files/Εισαγωγή%20στο%20Java%20Native%20Interface.pdf) |
 |Δημήτρης Τζιβάκης | [Introduction to cloud computing](files/Introduction%20to%20Cloud%20Computing.pptx) |
 |Βασίλης Γκούμας | [ Introduction to Nix](files/nix-slides.pptx) |
+|Κανδήρος Άνθιμος-Βαρδής | [Introduction to Quantum Cryptography](files/Introduction_to_Quantum_Cryptography.pdf) |
