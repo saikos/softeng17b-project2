@@ -48,4 +48,4 @@
 |Δημήτρης Τζιβάκης | [Introduction to cloud computing](files/Introduction%20to%20Cloud%20Computing.pptx) |
 |Κανδήρος Άνθιμος-Βαρδής | [Introduction to Quantum Cryptography](files/Introduction_to_Quantum_Cryptography.pdf) |
 |Δημήτρης Λέκκας| ? |
-|Αποστόλης Κυτέας | ? |
+|Απόστολος Κυτέας | [Mastering the Game of Go](files/MasteringGo.pptx) |
