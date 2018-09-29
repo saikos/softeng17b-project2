@@ -49,3 +49,5 @@
 |Κανδήρος Άνθιμος-Βαρδής | [Introduction to Quantum Cryptography](files/Introduction_to_Quantum_Cryptography.pdf) |
 |Δημήτρης Λέκκας| ? |
 |Απόστολος Κυτέας | [Mastering the Game of Go](files/MasteringGo.pptx) |
+|-|-|-|
+|Μαυρογεώργης Νίκος | [Haskell and the Software Industry](files/Haskell/Haskell_and_the_Software_Industry.pdf) | [Demo code](files/Haskell/presentation.hs) |
